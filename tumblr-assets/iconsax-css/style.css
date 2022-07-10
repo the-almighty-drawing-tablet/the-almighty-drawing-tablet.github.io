@@ -11,11 +11,7 @@
 } */
 @font-face {
 	font-family: 'iconsax';
-	src:  url('https://the-almighty-drawing-tablet.github.io/tumblr-assets/iconsax-css/fonts/iconsax.eot?yjegnn');
-	src:  url('https://the-almighty-drawing-tablet.github.io/tumblr-assets/iconsax-css/fonts/iconsax.eot?yjegnn#iefix') format('embedded-opentype'),
-	  url('https://the-almighty-drawing-tablet.github.io/tumblr-assets/iconsax-css/fonts/iconsax.ttf?yjegnn') format('truetype'),
-	  url('https://the-almighty-drawing-tablet.github.io/tumblr-assets/iconsax-css/fonts/iconsax.woff?yjegnn') format('woff'),
-	  url('https://the-almighty-drawing-tablet.github.io/tumblr-assets/iconsax-css/fonts/iconsax.svg?yjegnn#iconsax') format('svg');
+	src:  url('https://the-almighty-drawing-tablet.github.io/tumblr-assets/iconsax-css/fonts/iconsax.ttf?yjegnn') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;
