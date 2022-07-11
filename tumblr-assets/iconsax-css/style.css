@@ -1,17 +1,17 @@
 /* @font-face {
   font-family: 'iconsax';
-  src:  url('fonts/iconsax.eot?yjegnn');
-  src:  url('fonts/iconsax.eot?yjegnn#iefix') format('embedded-opentype'),
-    url('fonts/iconsax.ttf?yjegnn') format('truetype'),
-    url('fonts/iconsax.woff?yjegnn') format('woff'),
-    url('fonts/iconsax.svg?yjegnn#iconsax') format('svg');
+  src:  url('fonts/iconsax.eot');
+  src:  url('fonts/iconsax.eot#iefix') format('embedded-opentype'),
+    url('fonts/iconsax.ttf') format('truetype'),
+    url('fonts/iconsax.woff') format('woff'),
+    url('fonts/iconsax.svg#iconsax') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 } */
 @font-face {
 	font-family: 'iconsax';
-	src:  url('https://the-almighty-drawing-tablet.github.io/tumblr-assets/iconsax-css/fonts/iconsax.ttf?yjegnn') format('truetype');
+	src:  url('https://the-almighty-drawing-tablet.github.io/tumblr-assets/iconsax-css/fonts/iconsax.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;
